@@ -2,6 +2,9 @@ based on
 https://github.com/grakoczy/picocomputer-game-of-life/tree/main</br>
 by grakoczy
 
+for Picocomputer 6502 designed by Rumbledethumps</br>
+[Picocomputer GitHub](https://github.com/picocomputer)
+
 # John Conway's Game of Life for Picocomputer 6502
 
 is a cellular automaton that is played on a 2D square grid.
