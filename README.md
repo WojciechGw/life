@@ -1,5 +1,6 @@
-based on grakoczy
-https://github.com/grakoczy/picocomputer-game-of-life/tree/main
+based on
+https://github.com/grakoczy/picocomputer-game-of-life/tree/main</br>
+by grakoczy
 
 # John Conway's Game of Life for Picocomputer 6502
 
