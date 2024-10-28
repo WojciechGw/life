@@ -1,3 +1,6 @@
+based on grakoczy
+https://github.com/grakoczy/picocomputer-game-of-life/tree/main
+
 # John Conway's Game of Life for Picocomputer 6502
 
 is a cellular automaton that is played on a 2D square grid.
